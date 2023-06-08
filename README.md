@@ -56,13 +56,10 @@ If you aren't satisfied with the build tool and configuration choices, you can e
 
 ## Features
 
-1. Website register/login
-2. Deploy backend and frontend
-3. web and App register/login
-4. web and App forgot password
-5. web and App create listing
-6. web and App view listings
-7. logout
+1. Website logo/Home/Exercises
+2. Search Bar
+3. Featch data using APi
+4. Using Rapidapi  
 
 
 
